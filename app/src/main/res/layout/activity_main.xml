@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"  
+    android:gravity="center"
+    android:padding="20dp"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/titleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:text="Coin Toss"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id = "@+id/coinImage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/heads"
+        android:contentDescription="Coin"
+        android:scaleType="fitCenter" />
+
+    <TextView
+        android:id="@+id/resultText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="Heads"
+        android:textSize="24sp"
+        android:textStyle="italic"/>
+
+    <Button
+        android:id="@+id/tossButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="TOSS"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+</LinearLayout>
