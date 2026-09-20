@@ -25,7 +25,10 @@ I built this project to get more hands-on experience with Android development an
 * **Gradle** – Project build system
 * **Git & GitHub** – Version control and project hosting
 
-  
+  <img width="1920" height="1080" alt="Screenshot 2026-09-20 140349" src="https://github.com/user-attachments/assets/a04c29c8-b667-43c2-8ae5-f7686863689e" />
+  <img width="1920" height="1080" alt="Screenshot 2026-09-20 135633" src="https://github.com/user-attachments/assets/2b40fbbf-3ad9-4427-a233-32c837012215" />
+
+
 
 ## How the App Works
 
