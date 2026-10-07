@@ -1,10 +1,25 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=220&section=header&text=LIC%20Policy%20Allocation%20Simulator&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Console%20Application&descSize=18&descAlignY=58" width="100%" alt="LIC Policy Allocation Simulator banner" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Interactive+Policyholder+Questionnaire;LIC+Plan+Recommendation+Engine;Clean+Input+Handling+%26+Conditional+Logic;Built+with+Core+Java" alt="Typing animation" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=220&section=header&text=Coin%20Toss%20App&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Heads%20or%20Tails%2C%20Instantly&descSize=18&descAlignY=58" width="100%" alt="Coin Toss App banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Fair+and+Random+Coin+Flip;Heads+or+Tails+in+One+Click;Simple.+Fast.+Unbiased." alt="Typing animation" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Java-8%2B-4C1D95?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Type-Console%20Application-6D28D9?style=for-the-badge" alt="Console Application" /> <img src="https://img.shields.io/badge/Domain-Insurance-7C3AED?style=for-the-badge" alt="Insurance" /> <img src="https://img.shields.io/badge/Status-Active%20Development-4F46E5?style=for-the-badge" alt="Status" /> <img src="https://img.shields.io/badge/License-MIT-8B5CF6?style=for-the-badge" alt="License" />
+<img src="https://img.shields.io/badge/Type-Simulator-4C1D95?style=for-the-badge" alt="Simulator" />
+<img src="https://img.shields.io/badge/Outcome-Heads%20%7C%20Tails-6D28D9?style=for-the-badge" alt="Outcome" />
+<img src="https://img.shields.io/badge/Status-Active-7C3AED?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/License-MIT-8B5CF6?style=for-the-badge" alt="License" />
 
 <br/><br/>
+
+<a href="https://github.com/Arjun-mepcocse"><img src="https://img.shields.io/badge/GitHub-Arjun--mepcocse-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
+
+---
 
 
 **Coin Toss App**
